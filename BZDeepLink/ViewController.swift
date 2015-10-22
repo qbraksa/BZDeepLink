@@ -21,5 +21,10 @@ class ViewController: UIViewController {
     }
 
 
+    @IBAction func openSomething(sender: AnyObject) {
+        let url = NSURL(string: "sms:555-555-5555")
+        UIApplication.sharedApplication().openURL(url!)
+    }
+
 }
 
