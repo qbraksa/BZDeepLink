@@ -483,6 +483,7 @@
 				30649E1C1BD3BB5B00345F12 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		30649E1D1BD3BB5B00345F12 /* Build configuration list for PBXNativeTarget "BZDeepLinkTests" */ = {
 			isa = XCConfigurationList;
@@ -491,6 +492,7 @@
 				30649E1F1BD3BB5B00345F12 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		30649E201BD3BB5B00345F12 /* Build configuration list for PBXNativeTarget "BZDeepLinkUITests" */ = {
 			isa = XCConfigurationList;
@@ -499,6 +501,7 @@
 				30649E221BD3BB5B00345F12 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
